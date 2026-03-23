@@ -6,3 +6,6 @@ As you work through this exercise, write down anything that you needed to look u
 - floats in general and what to do when using a double as a float 
     float = 3.5f (why do i need the f after the double/float)
 - familiarize myself with 'contains' when searching a list 
+- look at more collections library methods
+- when to use index based traditional for loop vs a for-each loop
+- 
