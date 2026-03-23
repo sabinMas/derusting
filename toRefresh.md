@@ -11,5 +11,6 @@ As you work through this exercise, write down anything that you needed to look u
 - when defining the length of an array I need to remember; if the
     size is defined as x then the arrays index will be x-1
 - understand built in methods more deep like join 
-- 
+- I need a refresher on toString methods and the syntax specifically
+    when working with classes/objects and constructors
  
